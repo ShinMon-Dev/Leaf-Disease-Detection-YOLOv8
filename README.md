@@ -12,8 +12,8 @@
 ## 🚀 Getting Started
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/ShinMon-Dev/Data-Genies-Leaf-Disease-Detection.git
-cd Data-Genies-Leaf-Disease-Detection
+git clone https://github.com/ShinMon-Dev/Leaf-Disease-Detection.git
+cd Leaf-Disease-Detection
 ```
 
 ### **2. Install Dependencies**
@@ -42,7 +42,7 @@ python src/main.py
 
 ## 📂 Project Structure
 ```
-Data-Genies-Leaf-Disease-Detection/
+Leaf-Disease-Detection/
 │── models/                # YOLOv8 trained weights
 │── images/                # Sample images
 │── src/                   # Source code
