@@ -1,6 +1,6 @@
-# 🍃 Leaf Disease Detection Web Application by Data Genies
+# 🍃 Plant Disease Detection Web Application by Data Genies
 
-**Data Genies** presents an advanced solution for **leaf disease detection**, leveraging **YOLOv8** to provide fast and accurate results. Our system allows users to scan plant leaves, analyze disease patterns, and receive treatment recommendations. We are currently developing a **web-based application** to make this technology more accessible to users.
+**Data Genies** presents an advanced solution for **Plant disease detection**, leveraging **YOLOv8** to provide fast and accurate results. Our system allows users to scan plant leaves, analyze disease patterns, and receive treatment recommendations. We are currently developing a **web-based application** to make this technology more accessible to users.
 
 ## 📌 Features
 - **AI-powered disease detection** using YOLOv8.
@@ -12,7 +12,7 @@
 ## 🚀 Getting Started
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/ShinMon-Dev/Leaf-Disease-Detection.git
+git clone https://github.com/ShinMon-Dev/Plant-Disease-Detection.git
 cd Leaf-Disease-Detection
 ```
 
@@ -42,7 +42,7 @@ python src/main.py
 
 ## 📂 Project Structure
 ```
-Leaf-Disease-Detection/
+Plant-Disease-Detection/
 │── models/                # YOLOv8 trained weights
 │── images/                # Sample images
 │── src/                   # Source code
