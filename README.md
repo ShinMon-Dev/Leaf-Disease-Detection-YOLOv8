@@ -27,9 +27,11 @@ python src/main.py
 ```
 
 ## 📸 Example Output
+![image](https://github.com/user-attachments/assets/7aa0d4ff-fe98-4dc2-ab76-3baffc135374)
+
 **Disease Scanner:**
 - **Take a picture** or **upload an image** for analysis.
-- The system detects diseases with confidence scores (e.g., Bacterial Leaf Blight 88%).
+- The system detects diseases with confidence scores (e.g., Bacterial Leaf Blight 95%).
 - Provides detailed **diagnosis**, including symptoms, causes, and prevention methods.
 
 ## 🛠 Technologies Used
